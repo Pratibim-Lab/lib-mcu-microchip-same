@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAME/ATSAME54N19A-A:ATSAME54N19A-A",
+  "name": "ATSAME54N19A-A",
+  "library": "MCU_Microchip_SAME",
+  "file": "MCU_Microchip_SAME.kicad_symdir/ATSAME54N19A-A.kicad_sym",
+  "description": "SAM E54 Microchip SMART ARM Cortex-M4F based MCU, 512K Flash, 192K SRAM, TQFP-100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf",
+  "keywords": "32-bit ARM Cortex-M4F MCU Microcontroller",
+  "footprint": "Package_QFP:TQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-same@master/parts/ATSAME54N19A-A/",
+  "part_path": "parts/ATSAME54N19A-A",
+  "symbol_file": "parts/ATSAME54N19A-A/ATSAME54N19A-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAME.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:59.701Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAME/ATSAME53J20A-M:ATSAME53J20A-M",
+  "name": "ATSAME53J20A-M",
+  "library": "MCU_Microchip_SAME",
+  "file": "MCU_Microchip_SAME.kicad_symdir/ATSAME53J20A-M.kicad_sym",
+  "description": "SAM E53 Microchip SMART ARM Cortex-M4F based MCU, 1024K Flash, 128K SRAM, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf",
+  "keywords": "32-bit ARM Cortex-M4F MCU Microcontroller",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm",
+  "extends": "ATSAME53J18A-M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-same@master/parts/ATSAME53J20A-M/",
+  "part_path": "parts/ATSAME53J20A-M",
+  "symbol_file": "parts/ATSAME53J20A-M/ATSAME53J20A-M.kicad_sym",
+  "source_library": "MCU_Microchip_SAME.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:59.695Z"
+}

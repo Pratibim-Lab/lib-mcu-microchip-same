@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAME/ATSAME70N21A-AN:ATSAME70N21A-AN",
+  "name": "ATSAME70N21A-AN",
+  "library": "MCU_Microchip_SAME",
+  "file": "MCU_Microchip_SAME.kicad_symdir/ATSAME70N21A-AN.kicad_sym",
+  "description": "SAM E70 Microchip SMART ARM Cortex-M7-based MCU, 2048K Flash, 384K SRAM, LQFP100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/SAM-E70-S70-V70-V71-Family-Data-Sheet-DS60001527D.pdf",
+  "keywords": "32-bit ARM Cortex-M7 MCU Microcontroller",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-same@master/parts/ATSAME70N21A-AN/",
+  "part_path": "parts/ATSAME70N21A-AN",
+  "symbol_file": "parts/ATSAME70N21A-AN/ATSAME70N21A-AN.kicad_sym",
+  "source_library": "MCU_Microchip_SAME.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:59.728Z"
+}

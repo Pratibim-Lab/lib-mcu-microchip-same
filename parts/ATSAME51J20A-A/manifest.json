@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_SAME/ATSAME51J20A-A:ATSAME51J20A-A",
+  "name": "ATSAME51J20A-A",
+  "library": "MCU_Microchip_SAME",
+  "file": "MCU_Microchip_SAME.kicad_symdir/ATSAME51J20A-A.kicad_sym",
+  "description": "SAM E51 Microchip SMART ARM Cortex-M4F-based MCU, 1024K Flash, 256K SRAM, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/60001507E.pdf",
+  "keywords": "32-bit ARM Cortex-M4F MCU Microcontroller",
+  "footprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+  "extends": "ATSAME51J18A-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-same@master/parts/ATSAME51J20A-A/",
+  "part_path": "parts/ATSAME51J20A-A",
+  "symbol_file": "parts/ATSAME51J20A-A/ATSAME51J20A-A.kicad_sym",
+  "source_library": "MCU_Microchip_SAME.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:59.677Z"
+}
